@@ -1,1 +1,2 @@
 Contents of file 1
+Alice's implementation of the file 1
